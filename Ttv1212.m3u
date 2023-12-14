@@ -1,1314 +1,803 @@
-#EXTM3U
-#EXTINF:-1 group-title="·s»D,#genre#",¤T¥ß·s»D
+ï»¿#EXTM3U
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸‰ç«‹æ–°è
 http://125.227.210.55:35238/VideoInput/play.ts
-#EXTINF:-1 group-title="·s»D,#genre#",¥Áµø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",æ°‘è¦–æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¤T¥ßiNEWS
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸‰ç«‹iNEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",TVBS·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",TVBSæ–°è
 https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",TVBS NEWS
+#EXTINF:-1 group-title="æ–°è,#genre#",TVBS NEWS
 https://yt-stream.livednow.com/stream/m_dhMSvUCIc/master.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¤T¥ßNEWS+
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸‰ç«‹NEWS+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¦~¥N·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",å¹´ä»£æ–°è
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",«D¤Z·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",éå‡¡æ–°è
 http://125.227.210.55:28993/VideoInput/play.ts
-#EXTINF:-1 group-title="·s»D,#genre#",¤¤¤Ñ·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸­å¤©æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",TVBS·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",TVBSæ–°è
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",TVBS·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",TVBSæ–°è
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",TVBS NEWS
+#EXTINF:-1 group-title="æ–°è,#genre#",TVBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",ªF´Ë·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",æ±æ£®æ–°è
 http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",ªF´Ë°]¸g
+#EXTINF:-1 group-title="æ–°è,#genre#",æ±æ£®è²¡ç¶“
 https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",ªF´Ë°]¸g
+#EXTINF:-1 group-title="æ–°è,#genre#",æ±æ£®è²¡ç¶“
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¥xµø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",å°è¦–æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¤¤µø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸­è¦–æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¤¤¤Ñ¨È¬w¥x
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸­å¤©äºæ´²å°
 https://yt-stream.livednow.com/stream/s2waUruqze4/master.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",ªF´Ë°]¸gªÑ¥«
+#EXTINF:-1 group-title="æ–°è,#genre#",æ±æ£®è²¡ç¶“è‚¡å¸‚
 https://yt-stream.livednow.com/stream/6gXbFIaRJt0/master.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",Ãè·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",é¡æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¾È¦t°ê»Ú·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",å¯°å®‡åœ‹éš›æ–°è
 https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¤H¶¡½Ãµø
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¤H¶¡½Ãµø
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",TVBS¨È¬w
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",TVBSäºæ´²
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",ªF´Ë¬ü¬w
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",æ±æ£®ç¾æ´²
 http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",µØµøÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",è¯è¦–æˆ²åŠ‡
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",µØµøÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",è¯è¦–æˆ²åŠ‡
 https://ytm2.yuanhsing.cf/ctsprog.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¤j¥ß¹qµø
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¿»Á¦¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",è•ƒè–¯å°
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¤K¤j¹qµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",å…«å¤§é›»è¦–
 https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¤j¥ß¹qµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",å¤§ç«‹é›»è¦–
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¿»Á¦¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",è•ƒè–¯å°
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¥Áµø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",æ°‘è¦–æ–°è
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="·s»D,#genre#",¥xµø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",å°è¦–æ–°è
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",Ãè·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",é¡æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¾È¦t·s»D¥x
+#EXTINF:-1 group-title="æ–°è,#genre#",å¯°å®‡æ–°èå°
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¥Áµø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",æ°‘è¦–æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",ªF´Ë°]¸g·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",æ±æ£®è²¡ç¶“æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¥xµø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",å°è¦–æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¤¤µø·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸­è¦–æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¸U¨q½Ş¤ı
+#EXTINF:-1 group-title="å°ç£ç¶œåˆ,#genre#",è¬ç§€è±¬ç‹
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¤¤µø
+#EXTINF:-1 group-title="å°ç£ç¶œåˆ,#genre#",ä¸­è¦–
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¤¤¤Ñ·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",ä¸­å¤©æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",Ãè·s»D
+#EXTINF:-1 group-title="æ–°è,#genre#",é¡æ–°è
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",TVBS NESW
+#EXTINF:-1 group-title="æ–°è,#genre#",TVBS NESW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¶Wµø34.5
+#EXTINF:-1 group-title="å°ç£ç¶œåˆ,#genre#",è¶…è¦–34.5
 http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",¥ÁµøÀ¸¼@
+#EXTINF:-1 group-title="å°ç£ç¶œåˆ,#genre#",æ°‘è¦–æˆ²åŠ‡
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",MOMO1¥x
+#EXTINF:-1 group-title="å°ç£ç¶œåˆ,#genre#",MOMO1å°
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 group-title="¥xÆWºî¦X,#genre#",MOMO2¥x
+#EXTINF:-1 group-title="å°ç£ç¶œåˆ,#genre#",MOMO2å°
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1,tvg-id="¤T¥ß·s»D" tvg-name="¤T¥ß·s»D" tvg-logo="https://epg.112114.xyz/logo/¤T¥ß·s»D.png" group-title="·s»D°]¸g",¤T¥ß·s»D
+#EXTINF:-1,tvg-id="ä¸‰ç«‹æ–°è" tvg-name="ä¸‰ç«‹æ–°è" tvg-logo="https://epg.112114.xyz/logo/ä¸‰ç«‹æ–°è.png" group-title="æ–°èè²¡ç¶“",ä¸‰ç«‹æ–°è
 https://yt-stream.livednow.com/stream/FoBfXvlOR6I/master.m3u8
-#EXTINF:-1,tvg-id="¤T¥ß·s»D" tvg-name="¤T¥ß·s»D" tvg-logo="https://epg.112114.xyz/logo/¤T¥ß·s»D.png" group-title="·s»D°]¸g",¤T¥ß·s»D+
+#EXTINF:-1,tvg-id="ä¸‰ç«‹æ–°è" tvg-name="ä¸‰ç«‹æ–°è" tvg-logo="https://epg.112114.xyz/logo/ä¸‰ç«‹æ–°è.png" group-title="æ–°èè²¡ç¶“",ä¸‰ç«‹æ–°è+
 https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
-#EXTINF:-1,tvg-id="¤¤¤Ñ·s»D¥x" tvg-name="¤¤¤Ñ·s»D¥x" tvg-logo="https://epg.112114.xyz/logo/¤¤¤Ñ·s»D¥x.png" group-title="·s»D°]¸g",¤¤¤Ñ·s»D2
+#EXTINF:-1,tvg-id="ä¸­å¤©æ–°èå°" tvg-name="ä¸­å¤©æ–°èå°" tvg-logo="https://epg.112114.xyz/logo/ä¸­å¤©æ–°èå°.png" group-title="æ–°èè²¡ç¶“",ä¸­å¤©æ–°è2
 https://yt-stream.livednow.com/stream/WPfPjbOLNfE/master.m3u8
-#EXTINF:-1,tvg-id="¤¤¤Ñ¨È¬w¥x" tvg-name="¤¤¤Ñ¨È¬w¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="·s»D°]¸g",¤¤¤Ñ¨È¬w¥x
+#EXTINF:-1,tvg-id="ä¸­å¤©äºæ´²å°" tvg-name="ä¸­å¤©äºæ´²å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="æ–°èè²¡ç¶“",ä¸­å¤©äºæ´²å°
 https://yt-stream.livednow.com/stream/s2waUruqze4/master.m3u8
-#EXTINF:-1,tvg-id="¥xµø·s»D¥x" tvg-name="¥xµø·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="·s»D°]¸g",¥xµø·s»D¥x
+#EXTINF:-1,tvg-id="å°è¦–æ–°èå°" tvg-name="å°è¦–æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="æ–°èè²¡ç¶“",å°è¦–æ–°èå°
 https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
-#EXTINF:-1,tvg-id="¤½µø" tvg-name="¤½µø" tvg-logo="https://epg.112114.xyz/logo/¤½µø.png" group-title="·s»D°]¸g",¤½µø·s»D¥x
+#EXTINF:-1,tvg-id="å…¬è¦–" tvg-name="å…¬è¦–" tvg-logo="https://epg.112114.xyz/logo/å…¬è¦–.png" group-title="æ–°èè²¡ç¶“",å…¬è¦–æ–°èå°
 https://yt-stream.livednow.com/stream/quwqlazU-c8/master.m3u8
-#EXTINF:-1,tvg-id="ªF´Ë·s»D¥x" tvg-name="ªF´Ë·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="·s»D°]¸g",ªF´Ë·s»D
+#EXTINF:-1,tvg-id="æ±æ£®æ–°èå°" tvg-name="æ±æ£®æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="æ–°èè²¡ç¶“",æ±æ£®æ–°è
 https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
-#EXTINF:-1,tvg-id="ªF´Ë·s»D¥x" tvg-name="ªF´Ë·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="·s»D°]¸g",ªF´Ë·s»D
+#EXTINF:-1,tvg-id="æ±æ£®æ–°èå°" tvg-name="æ±æ£®æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="æ–°èè²¡ç¶“",æ±æ£®æ–°è
 https://yt-stream.livednow.com/stream/6gXbFIaRJt0/master.m3u8
-#EXTINF:-1,tvg-id="ªF´Ë°]¸g·s»D¥x" tvg-name="ªF´Ë°]¸g·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="·s»D°]¸g",ªF´Ë°]¸g·s»D
+#EXTINF:-1,tvg-id="æ±æ£®è²¡ç¶“æ–°èå°" tvg-name="æ±æ£®è²¡ç¶“æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="æ–°èè²¡ç¶“",æ±æ£®è²¡ç¶“æ–°è
 https://yt-stream.livednow.com/stream/WHEPzbFA3hw/master.m3u8
-#EXTINF:-1,tvg-id="¤¤µø·s»D" tvg-name="¤¤µø·s»D" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="·s»D°]¸g",¤¤µø·s»D
+#EXTINF:-1,tvg-id="ä¸­è¦–æ–°è" tvg-name="ä¸­è¦–æ–°è" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="æ–°èè²¡ç¶“",ä¸­è¦–æ–°è
 https://yt-stream.livednow.com/stream/TCnaIE_SAtM/master.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¾È¦t·s»D¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",å¯°å®‡æ–°èå°
 https://yt-stream.livednow.com/stream/6IquAgfvYmc/master.m3u8
-#EXTINF:-1,tvg-id="¤¤¤Ñ·s»D¥x" tvg-name="¤¤¤Ñ·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="·s»D°]¸g",¤¤¤Ñ·s»D
+#EXTINF:-1,tvg-id="ä¸­å¤©æ–°èå°" tvg-name="ä¸­å¤©æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="æ–°èè²¡ç¶“",ä¸­å¤©æ–°è
 https://yt-stream.livednow.com/stream/oIgbl7t0S_w/master.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",µØµø·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",è¯è¦–æ–°è
 https://yt-stream.livednow.com/stream/wM0g8EoUZ_E/master.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",mnews Ãè·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",mnews é¡æ–°è
 https://yt-stream.livednow.com/stream/5n0y6b0Q25o/master.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¤T¥ßiNEWS
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",ä¸‰ç«‹iNEWS
 https://yt-stream.livednow.com/stream/CKjSm5ZeehE/master.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¥Áµø·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",æ°‘è¦–æ–°è
 https://yt-stream.livednow.com/stream/ylYJSBUgaMA/master.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",·s­ğ¤H¨È¤Ó¹qµø¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",æ–°å”äººäºå¤ªé›»è¦–å°
 https://yt-stream.livednow.com/stream/WIhgU_mc05A/master.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø,#genre#",¥ÁµøÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–,#genre#",æ°‘è¦–æˆ²åŠ‡
 https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
-#EXTINF:-1,¤Ñ¤ı½Ş­ô¨q
+#EXTINF:-1,å¤©ç‹è±¬å“¥ç§€
 https://yt-stream.livednow.com/stream/IsFtLpSuf_g/master.m3u8
-#EXTINF:-1,½Ş­ô·|ªÀ
+#EXTINF:-1,è±¬å“¥æœƒç¤¾
 https://yt-stream.livednow.com/stream/htGDPsz2BYI/master.m3u8
-#EXTINF:-1,¸U¨q½Ş¤ı
+#EXTINF:-1,è¬ç§€è±¬ç‹
 https://yt-stream.livednow.com/stream/ADDSmXoPDY8/master.m3u8
-#EXTINF:-1,tvg-id="½n¨ÓÅé¨|" tvg-name="½n¨ÓÅé¨|" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Videoland7.png" group-title="Åé¨|",½n¨ÓÅé¨|¥x
+#EXTINF:-1,tvg-id="ç·¯ä¾†é«”è‚²" tvg-name="ç·¯ä¾†é«”è‚²" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Videoland7.png" group-title="é«”è‚²",ç·¯ä¾†é«”è‚²å°
 https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥Áµø" tvg-name="¥Áµø" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="ºî¦X",¥Áµø
+#EXTINF:-1,tvg-id="æ°‘è¦–" tvg-name="æ°‘è¦–" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="ç¶œåˆ",æ°‘è¦–
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥Áµø²Ä¤@¥x" tvg-name="¥Áµø²Ä¤@¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="ºî¦X",¥Áµø²Ä¤@¥x
+#EXTINF:-1,tvg-id="æ°‘è¦–ç¬¬ä¸€å°" tvg-name="æ°‘è¦–ç¬¬ä¸€å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="ç¶œåˆ",æ°‘è¦–ç¬¬ä¸€å°
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥Áµø·s»D¥x" tvg-name="¥Áµø·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="·s»D°]¸g",¥Áµø·s»D¥x
+#EXTINF:-1,tvg-id="æ°‘è¦–æ–°èå°" tvg-name="æ°‘è¦–æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="æ–°èè²¡ç¶“",æ°‘è¦–æ–°èå°
 https://fake-stream.livednow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥Áµø¥xÆW¥x" tvg-name="¥Áµø¥xÆW¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="ºî¦X",¥Áµø¥xÆW¥x
+#EXTINF:-1,tvg-id="æ°‘è¦–å°ç£å°" tvg-name="æ°‘è¦–å°ç£å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="ç¶œåˆ",æ°‘è¦–å°ç£å°
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥ÁµøºîÃÀ¥x" tvg-name="¥ÁµøºîÃÀ¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="ºîÃÀ",¥ÁµøºîÃÀ¥x
+#EXTINF:-1,tvg-id="æ°‘è¦–ç¶œè—å°" tvg-name="æ°‘è¦–ç¶œè—å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="ç¶œè—",æ°‘è¦–ç¶œè—å°
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv004?token=e6a6be636d58709b08a491a720f9fcfb&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥Áµø¼v¼@¥x" tvg-name="¥Áµø¼v¼@¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¥Áµø¼v¼@¥x
+#EXTINF:-1,tvg-id="æ°‘è¦–å½±åŠ‡å°" tvg-name="æ°‘è¦–å½±åŠ‡å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",æ°‘è¦–å½±åŠ‡å°
 https://fake-stream.livednow.com/4gtv/24?token=9a939f8a3ac2c92bed38c36236361fc0&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥Áµø®È¹C¥x" tvg-name="¥Áµø®È¹C¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="¥Í¬¡",¥Áµø®È¹C¥x
+#EXTINF:-1,tvg-id="æ°‘è¦–æ—…éŠå°" tvg-name="æ°‘è¦–æ—…éŠå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="ç”Ÿæ´»",æ°‘è¦–æ—…éŠå°
 https://fake-stream.livednow.com/4gtv/litv-ftv07?token=2b2480ad38bb491616814d2d605a41ba&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¥xµø·s»D¥x" tvg-name="¥xµø·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="·s»D°]¸g",¥xµø·s»D¥x
+#EXTINF:-1,tvg-id="å°è¦–æ–°èå°" tvg-name="å°è¦–æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="æ–°èè²¡ç¶“",å°è¦–æ–°èå°
 https://fake-stream.livednow.com/youtube/xL0ch83RAK8?token=76452ebd0247f9f6b6d81953edfde617&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ªF´Ë·s»D¥x" tvg-name="ªF´Ë·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="·s»D°]¸g",ªF´Ë·s»D¥x
+#EXTINF:-1,tvg-id="æ±æ£®æ–°èå°" tvg-name="æ±æ£®æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="æ–°èè²¡ç¶“",æ±æ£®æ–°èå°
 https://yt-stream.livednow.com/stream/6gXbFIaRJt0/master.m3u8
-#EXTINF:-1,tvg-id="ªF´Ë·s»D¥x" tvg-name="ªF´Ë·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="·s»D°]¸g",ªF´Ë·s»D
+#EXTINF:-1,tvg-id="æ±æ£®æ–°èå°" tvg-name="æ±æ£®æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="æ–°èè²¡ç¶“",æ±æ£®æ–°è
 https://fake-stream.livednow.com/youtube/S5WOGu2HSes?token=d69959db36675917162d8fb605c1a312&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ªF´Ë°]¸g·s»D¥x" tvg-name="ªF´Ë°]¸g·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="·s»D°]¸g",ªF´Ë°]¸g·s»D
+#EXTINF:-1,tvg-id="æ±æ£®è²¡ç¶“æ–°èå°" tvg-name="æ±æ£®è²¡ç¶“æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="æ–°èè²¡ç¶“",æ±æ£®è²¡ç¶“æ–°è
 https://fake-stream.livednow.com/youtube/WHEPzbFA3hw?token=222c6ca0676d750aac074da3d6a3cf01&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ªF´Ë¹q¼v" tvg-name="ªF´Ë·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC3.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",ªF´Ë¹q¼v
+#EXTINF:-1,tvg-id="æ±æ£®é›»å½±" tvg-name="æ±æ£®æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC3.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",æ±æ£®é›»å½±
 https://fake-stream.livednow.com/laotv/DongsenMovie?token=d4ad937288691d13efd01ab155bc9413&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ªF´Ë¬v¤ù" tvg-name="ªF´Ë¬v¤ù" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC4.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",ªF´Ë¬v¤ù
+#EXTINF:-1,tvg-id="æ±æ£®æ´‹ç‰‡" tvg-name="æ±æ£®æ´‹ç‰‡" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC4.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",æ±æ£®æ´‹ç‰‡
 https://fake-stream.livednow.com/laotv/DongsenForeignMovie?token=056590c13ea374b1e2acd1f9e3ccd723&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤¤¤Ñ·s»D¥x" tvg-name="¤¤¤Ñ·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="·s»D°]¸g",¤¤¤Ñ·s»D¥x
+#EXTINF:-1,tvg-id="ä¸­å¤©æ–°èå°" tvg-name="ä¸­å¤©æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="æ–°èè²¡ç¶“",ä¸­å¤©æ–°èå°
 https://fake-stream.livednow.com/youtube/oIgbl7t0S_w?token=ea3c77d54feda21278b6114423908f58&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤¤¤Ñ·s»D¥x" tvg-name="¤¤¤Ñ·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="·s»D°]¸g",¤¤¤Ñ·s»D2¥x
+#EXTINF:-1,tvg-id="ä¸­å¤©æ–°èå°" tvg-name="ä¸­å¤©æ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="æ–°èè²¡ç¶“",ä¸­å¤©æ–°è2å°
 https://fake-stream.livednow.com/youtube/WPfPjbOLNfE?token=40bec3a31232c97c7a5423d89ace692b&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤¤¤Ñ¨È¬w¥x" tvg-name="¤¤¤Ñ¨È¬w¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="·s»D°]¸g",¤¤¤Ñ¨È¬w¥x
+#EXTINF:-1,tvg-id="ä¸­å¤©äºæ´²å°" tvg-name="ä¸­å¤©äºæ´²å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="æ–°èè²¡ç¶“",ä¸­å¤©äºæ´²å°
 https://fake-stream.livednow.com/youtube/s2waUruqze4?token=2d8b533fc1ee27efe5db4fd2f5085a99&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤¤µø" tvg-name="¤¤µø" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="ºî¦X",¤¤µø
+#EXTINF:-1,tvg-id="ä¸­è¦–" tvg-name="ä¸­è¦–" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="ç¶œåˆ",ä¸­è¦–
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤¤µø·s»D" tvg-name="¤¤µø·s»D" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="·s»D°]¸g",¤¤µø·s»D
+#EXTINF:-1,tvg-id="ä¸­è¦–æ–°è" tvg-name="ä¸­è¦–æ–°è" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="æ–°èè²¡ç¶“",ä¸­è¦–æ–°è
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv074?token=dfede1a3669810ff4c61282a92adfb2f&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤¤µø¸g¨å" tvg-name="¤¤µø¸g¨å" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="ºî¦X",¤¤µø¸g¨å¥x
+#EXTINF:-1,tvg-id="ä¸­è¦–ç¶“å…¸" tvg-name="ä¸­è¦–ç¶“å…¸" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="ç¶œåˆ",ä¸­è¦–ç¶“å…¸å°
 https://fake-stream.livednow.com/4gtv/124?token=80b3f9e7b74f066c3e523586b8d557d7&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤¤µøµ×ªö¥x" tvg-name="¤¤µøµ×ªö¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="ºî¦X",¤¤µøµ×ªö¥x
+#EXTINF:-1,tvg-id="ä¸­è¦–èé‡‡å°" tvg-name="ä¸­è¦–èé‡‡å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="ç¶œåˆ",ä¸­è¦–èé‡‡å°
 https://fake-stream.livednow.com/4gtv/123?token=8a4c28b173681716b734325fdbd93ce7&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="µØµø" tvg-name="µØµø" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="ºî¦X",µØµø
+#EXTINF:-1,tvg-id="è¯è¦–" tvg-name="è¯è¦–" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="ç¶œåˆ",è¯è¦–
 https://fake-stream.livednow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="µØµø" tvg-name="µØµø" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="·s»D°]¸g",µØµø·s»D
+#EXTINF:-1,tvg-id="è¯è¦–" tvg-name="è¯è¦–" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="æ–°èè²¡ç¶“",è¯è¦–æ–°è
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤½µø" tvg-name="¤½µø" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS.png" group-title="·s»D°]¸g",¤½µø·s»D
+#EXTINF:-1,tvg-id="å…¬è¦–" tvg-name="å…¬è¦–" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS.png" group-title="æ–°èè²¡ç¶“",å…¬è¦–æ–°è
 https://fake-stream.livednow.com/youtube/quwqlazU-c8?token=cbe10d91cfe03e7edf9cb8cb3247ec8a&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤½µøÀ¸¼@" tvg-name="¤½µøÀ¸¼@" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¤½µøÀ¸¼@
+#EXTINF:-1,tvg-id="å…¬è¦–æˆ²åŠ‡" tvg-name="å…¬è¦–æˆ²åŠ‡" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",å…¬è¦–æˆ²åŠ‡
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="Ãè¹qµø·s»D¥x" tvg-name="Ãè¹qµø·s»D¥x" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="·s»D°]¸g",Ãè¹qµø·s»D¥x
+#EXTINF:-1,tvg-id="é¡é›»è¦–æ–°èå°" tvg-name="é¡é›»è¦–æ–°èå°" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="æ–°èè²¡ç¶“",é¡é›»è¦–æ–°èå°
 https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¾È¦t·s»D" tvg-name="¾È¦t·s»D" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="·s»D°]¸g",¾È¦t·s»D¥x
+#EXTINF:-1,tvg-id="å¯°å®‡æ–°è" tvg-name="å¯°å®‡æ–°è" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="æ–°èè²¡ç¶“",å¯°å®‡æ–°èå°
 https://fake-stream.livednow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¾È¦t·s»D¥xÆW¥x" tvg-name="¾È¦t·s»D¥xÆW¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="·s»D°]¸g",¾È¦t·s»D¥xÆW¥x
+#EXTINF:-1,tvg-id="å¯°å®‡æ–°èå°ç£å°" tvg-name="å¯°å®‡æ–°èå°ç£å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="æ–°èè²¡ç¶“",å¯°å®‡æ–°èå°ç£å°
 https://fake-stream.livednow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¾È¦t°]¸g" tvg-name="¾È¦t°]¸g" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="·s»D°]¸g",¾È¦t°]¸g¥x
+#EXTINF:-1,tvg-id="å¯°å®‡è²¡ç¶“" tvg-name="å¯°å®‡è²¡ç¶“" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="æ–°èè²¡ç¶“",å¯°å®‡è²¡ç¶“å°
 https://fake-stream.livednow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤T¥ß·s»D" tvg-name="¤T¥ß·s»D" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET2.png" group-title="·s»D°]¸g",¤T¥ß·s»D
+#EXTINF:-1,tvg-id="ä¸‰ç«‹æ–°è" tvg-name="ä¸‰ç«‹æ–°è" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET2.png" group-title="æ–°èè²¡ç¶“",ä¸‰ç«‹æ–°è
 https://fake-stream.livednow.com/youtube/FoBfXvlOR6I?token=b82d4a76e2534670cc55b0aa6cb084f9&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤T¥ß·s»D" tvg-name="¤T¥ß·s»D" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET2.png" group-title="·s»D°]¸g",¤T¥ß·s»D+
+#EXTINF:-1,tvg-id="ä¸‰ç«‹æ–°è" tvg-name="ä¸‰ç«‹æ–°è" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET2.png" group-title="æ–°èè²¡ç¶“",ä¸‰ç«‹æ–°è+
 https://fake-stream.livednow.com/youtube/oZdzzvxTfUY?token=082709965a655050f0f1d4a1c89f94e2&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñºî¦X¥x" tvg-name="¹t¤Ñºî¦X¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="ºî¦X",¹t¤Ñºî¦X¥x
+#EXTINF:-1,tvg-id="é–å¤©ç¶œåˆå°" tvg-name="é–å¤©ç¶œåˆå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="ç¶œåˆ",é–å¤©ç¶œåˆå°
 https://fake-stream.livednow.com/4gtv/21?token=53e8ae9735c8eaddc3840946913d4859&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñ¸ê°T¥x" tvg-name="¹t¤Ñ¸ê°T¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="ºîÃÀ",¹t¤Ñ¸ê°T¥x
+#EXTINF:-1,tvg-id="é–å¤©è³‡è¨Šå°" tvg-name="é–å¤©è³‡è¨Šå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="ç¶œè—",é–å¤©è³‡è¨Šå°
 https://fake-stream.livednow.com/4gtv/88?token=cc6d395a61717bdaa74be623c03e1293&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñ¤é¥»¥x" tvg-name="¹t¤Ñ¤é¥»¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="ºî¦X",¹t¤Ñ¤é¥»¥x
+#EXTINF:-1,tvg-id="é–å¤©æ—¥æœ¬å°" tvg-name="é–å¤©æ—¥æœ¬å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="ç¶œåˆ",é–å¤©æ—¥æœ¬å°
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv047?token=d6169004ece38bbcc7f0ef06135fbd52&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñ¥d³q¥x" tvg-name="¹t¤Ñ¥d³q¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="¤Ö¨à",¹t¤Ñ¥d³q¥x
+#EXTINF:-1,tvg-id="é–å¤©å¡é€šå°" tvg-name="é–å¤©å¡é€šå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="å°‘å…’",é–å¤©å¡é€šå°
 https://fake-stream.livednow.com/4gtv/15?token=154fcede334ef91894ac12b2ca7093e7&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñ¨|¼Ö¥x" tvg-name="¹t¤Ñ¨|¼Ö¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="ºîÃÀ",¹t¤Ñ¨|¼Ö¥x
+#EXTINF:-1,tvg-id="é–å¤©è‚²æ¨‚å°" tvg-name="é–å¤©è‚²æ¨‚å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="ç¶œè—",é–å¤©è‚²æ¨‚å°
 https://fake-stream.livednow.com/4gtv/83?token=f15f03d7f5caebe3a50ba2c708e9af5c&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñ°ê»Ú" tvg-name="¹t¤Ñ°ê»Ú" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="ºîÃÀ",¹t¤Ñ°ê»Ú¥x
+#EXTINF:-1,tvg-id="é–å¤©åœ‹éš›" tvg-name="é–å¤©åœ‹éš›" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="ç¶œè—",é–å¤©åœ‹éš›å°
 https://fake-stream.livednow.com/4gtv/84?token=761bbc9932c7391e82ea144d899826b1&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤ÑÅw¼Ö¥x" tvg-name="¹t¤ÑÅw¼Ö¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV4.png" group-title="ºîÃÀ",¹t¤ÑÅw¼Ö¥x
+#EXTINF:-1,tvg-id="é–å¤©æ­¡æ¨‚å°" tvg-name="é–å¤©æ­¡æ¨‚å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV4.png" group-title="ç¶œè—",é–å¤©æ­¡æ¨‚å°
 https://fake-stream.livednow.com/4gtv/119?token=a12d9c7597bf7eea07ddd5c6adde3ab2&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñ¹q¼v¥x" tvg-name="¹t¤Ñ¹q¼v¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¹t¤Ñ¹q¼v¥x
+#EXTINF:-1,tvg-id="é–å¤©é›»å½±å°" tvg-name="é–å¤©é›»å½±å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é–å¤©é›»å½±å°
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv061?token=5b639205e26ded7a637e0257013e0744&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤ÑÀ¸¼@¥x" tvg-name="¹t¤ÑÀ¸¼@¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¹t¤ÑÀ¸¼@¥x
+#EXTINF:-1,tvg-id="é–å¤©æˆ²åŠ‡å°" tvg-name="é–å¤©æˆ²åŠ‡å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é–å¤©æˆ²åŠ‡å°
 https://fake-stream.livednow.com/4gtv/116?token=e06e34ddf1ea7376844aa5f4f9f875c9&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¤Ñ¬Mµe" tvg-name="¹t¤Ñ¬Mµe" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¹t¤Ñ¬Mµe¥x
+#EXTINF:-1,tvg-id="é–å¤©æ˜ ç•«" tvg-name="é–å¤©æ˜ ç•«" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é–å¤©æ˜ ç•«å°
 https://fake-stream.livednow.com/4gtv/42?token=b229f94b5c14dcf42eabd48b63c1be92&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="·s»D°]¸g",TVBS
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="æ–°èè²¡ç¶“",TVBS
 https://fake-stream.livednow.com/4gtv/183?token=65f2416f8cecc2c5f60df5e66d5744fb&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="TVBS·s»D¥x" tvg-name="TVBS·s»D¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="·s»D°]¸g",TVBS ·s»D¥x
+#EXTINF:-1,tvg-id="TVBSæ–°èå°" tvg-name="TVBSæ–°èå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="æ–°èè²¡ç¶“",TVBS æ–°èå°
 https://fake-stream.livednow.com/youtube/2mCSYvcfhtc?token=ed4e2a8d017c5e95af18de81746eeef3&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="TVBSºëªö¥x" tvg-name="TVBSºëªö¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="ºî¦X",TVBS ºëªö¥x
+#EXTINF:-1,tvg-id="TVBSç²¾é‡‡å°" tvg-name="TVBSç²¾é‡‡å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="ç¶œåˆ",TVBS ç²¾é‡‡å°
 https://fake-stream.livednow.com/4gtv/227?token=18069f92a33d9fe1a3319376e7fda4f4&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="TVBSÅw¼Ö¥x" tvg-name="TVBSÅw¼Ö¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="ºîÃÀ",TVBS Åw¼Ö¥x
+#EXTINF:-1,tvg-id="TVBSæ­¡æ¨‚å°" tvg-name="TVBSæ­¡æ¨‚å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="ç¶œè—",TVBS æ­¡æ¨‚å°
 https://fake-stream.livednow.com/4gtv/184?token=914438a4c8a7fdcc9eb2471aa9681962&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¬v¥d³q¥x" tvg-name="¹t¬v¥d³q¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="¤Ö¨à",¹t¬v¥d³q Nice Bingo
+#EXTINF:-1,tvg-id="é–æ´‹å¡é€šå°" tvg-name="é–æ´‹å¡é€šå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="å°‘å…’",é–æ´‹å¡é€š Nice Bingo
 https://fake-stream.livednow.com/4gtv/59?token=8d7dac6ff1e42d49b1c88868a9806d1a&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹t¬vÀ¸¼@¥x" tvg-name="¹t¬vÀ¸¼@¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¹t¬vÀ¸¼@¥x
+#EXTINF:-1,tvg-id="é–æ´‹æˆ²åŠ‡å°" tvg-name="é–æ´‹æˆ²åŠ‡å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é–æ´‹æˆ²åŠ‡å°
 https://fake-stream.livednow.com/4gtv/118?token=9d65ed6164d628b37d484bc983cda228&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="«È®a¹qµø¥x" tvg-name="«È®a¹qµø¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="ºî¦X",«È®a¹qµø¥x
+#EXTINF:-1,tvg-id="å®¢å®¶é›»è¦–å°" tvg-name="å®¢å®¶é›»è¦–å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="ç¶œåˆ",å®¢å®¶é›»è¦–å°
 https://fake-stream.livednow.com/4gtv/107?token=687876a0addb2cb119e8f094cb9d5a09&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤K¤jºîÃÀ¥x" tvg-name="¤K¤jºîÃÀ¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV1.png" group-title="ºî¦X",¤K¤jºîÃÀ¥x
+#EXTINF:-1,tvg-id="å…«å¤§ç¶œè—å°" tvg-name="å…«å¤§ç¶œè—å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV1.png" group-title="ç¶œåˆ",å…«å¤§ç¶œè—å°
 https://fake-stream.livednow.com/4gtv/114?token=d310b1c6b30326a8013de7b8ec1b9613&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¤K¤jºë±m¥x" tvg-name="¤K¤jºë±m¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¤K¤jºë±m¥x
+#EXTINF:-1,tvg-id="å…«å¤§ç²¾å½©å°" tvg-name="å…«å¤§ç²¾å½©å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",å…«å¤§ç²¾å½©å°
 https://fake-stream.livednow.com/4gtv/172?token=7d013a38d60f158b1b1265f688e8172b&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="·Rº¸¹F®T¼Ö¥x" tvg-name="·Rº¸¹F®T¼Ö¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="ºî¦X",·Rº¸¹F®T¼Ö¥x
+#EXTINF:-1,tvg-id="æ„›çˆ¾é”å¨›æ¨‚å°" tvg-name="æ„›çˆ¾é”å¨›æ¨‚å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="ç¶œåˆ",æ„›çˆ¾é”å¨›æ¨‚å°
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv070?token=db069a3611acce8397d3d2aa3254120e&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¹F¤å¦è" tvg-name="¹F¤å¦è" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="¤Ö¨à",¹F¤å¦èÀW¹D
+#EXTINF:-1,tvg-id="é”æ–‡è¥¿" tvg-name="é”æ–‡è¥¿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="å°‘å…’",é”æ–‡è¥¿é »é“
 https://fake-stream.livednow.com/4gtv/11?token=5d6187154f4face288d87356ae6632ff&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="¤Ö¨à",ELTV¥Í¬¡­^»y¥x
+#EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="å°‘å…’",ELTVç”Ÿæ´»è‹±èªå°
 https://fake-stream.livednow.com/4gtv/litv-longturn20?token=866832e24d6deeb7e5599e7e8c000b8e&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="i-Fun°Êº©" tvg-name="i-Fun°Êº©" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ifun2.png" group-title="¤Ö¨à",i-Fun°Êº©¥x
+#EXTINF:-1,tvg-id="i-Funå‹•æ¼«" tvg-name="i-Funå‹•æ¼«" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ifun2.png" group-title="å°‘å…’",i-Funå‹•æ¼«å°
 https://fake-stream.livednow.com/4gtv/litv-ftv15?token=68bb9c2ce1eb384cb9122020e57b769d&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="Áú°ê®T¼Ö¥xKMTV" tvg-name="Áú°ê®T¼Ö¥xKMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="ºîÃÀ",Áú°ê®T¼Ö¥x KMTV
+#EXTINF:-1,tvg-id="éŸ“åœ‹å¨›æ¨‚å°KMTV" tvg-name="éŸ“åœ‹å¨›æ¨‚å°KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="ç¶œè—",éŸ“åœ‹å¨›æ¨‚å° KMTV
 https://fake-stream.livednow.com/4gtv/76?token=663712ecdccfce985aa611a9a1cef5ef&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¨È¬w®È¹C¥x" tvg-name="¨È¬w®È¹C¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="¥Í¬¡",¨È¬w®È¹C¥x
+#EXTINF:-1,tvg-id="äºæ´²æ—…éŠå°" tvg-name="äºæ´²æ—…éŠå°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="ç”Ÿæ´»",äºæ´²æ—…éŠå°
 https://fake-stream.livednow.com/4gtv/250?token=1e7cfaf1f1673342f91b6807ebdc696d&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ÀsµØ¹q¼v" tvg-name="ÀsµØ¹q¼v" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",ÀsµØ¹q¼v¥x
+#EXTINF:-1,tvg-id="é¾è¯é›»å½±" tvg-name="é¾è¯é›»å½±" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é¾è¯é›»å½±å°
 https://fake-stream.livednow.com/4gtv/litv-longturn03?token=5fc1547ad0885b7487465cfc93c408ac&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ÀsµØÀ¸¼@" tvg-name="ÀsµØÀ¸¼@" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",ÀsµØÀ¸¼@¥x
+#EXTINF:-1,tvg-id="é¾è¯æˆ²åŠ‡" tvg-name="é¾è¯æˆ²åŠ‡" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é¾è¯æˆ²åŠ‡å°
 https://fake-stream.livednow.com/4gtv/23?token=f42cb2ceb9fbd50038ad7fa38dcc2225&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ÀsµØ¤éÁú¥x" tvg-name="ÀsµØ¤éÁú¥x" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",ÀsµØ¤éÁú¥x
+#EXTINF:-1,tvg-id="é¾è¯æ—¥éŸ“å°" tvg-name="é¾è¯æ—¥éŸ“å°" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é¾è¯æ—¥éŸ“å°
 https://fake-stream.livednow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="Às²»®É¥N" tvg-name="Às²»®É¥N" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LStime.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",Às²»®É¥N
+#EXTINF:-1,tvg-id="é¾ç¥¥æ™‚ä»£" tvg-name="é¾ç¥¥æ™‚ä»£" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LStime.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é¾ç¥¥æ™‚ä»£
 https://fake-stream.livednow.com/laotv/Longxiang?token=7bc9660eadd7ad971ef527e2f1209761&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="CNEX" tvg-name="CNEX" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",µø¯ÇµØ¤¯¬ö¹êÀW¹D
+#EXTINF:-1,tvg-id="CNEX" tvg-name="CNEX" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",è¦–ç´è¯ä»ç´€å¯¦é »é“
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv013?token=2ce9910369a57e195d367e8f7abc134c&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="ªö©÷¼v¼@" tvg-name="ªö©÷¼v¼@" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",ªö©÷¼v¼@¥x
+#EXTINF:-1,tvg-id="é‡‡æ˜Œå½±åŠ‡" tvg-name="é‡‡æ˜Œå½±åŠ‡" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",é‡‡æ˜Œå½±åŠ‡å°
 https://fake-stream.livednow.com/4gtv/25?token=b733f1c181845a96865e6bc5ff00c4f8&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="¼v°g¼Æ¦ì¹q¼v" tvg-name="¼v°g¼Æ¦ì¹q¼v" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",¼v°g¼Æ¦ì¹q¼v¥x
+#EXTINF:-1,tvg-id="å½±è¿·æ•¸ä½é›»å½±" tvg-name="å½±è¿·æ•¸ä½é›»å½±" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",å½±è¿·æ•¸ä½é›»å½±å°
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv011?token=dd94c6a8737444388476b53857446a9c&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1,tvg-id="amc³Ì·R¹q¼v" tvg-name="amc³Ì·R¹q¼v" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="À¸¼@¡B¹q¼v»P¬ö¿ı¤ù",AMC ³Ì·R¹q¼v
+#EXTINF:-1,tvg-id="amcæœ€æ„›é›»å½±" tvg-name="amcæœ€æ„›é›»å½±" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="æˆ²åŠ‡ã€é›»å½±èˆ‡ç´€éŒ„ç‰‡",AMC æœ€æ„›é›»å½±
 https://fake-stream.livednow.com/4gtv/39?token=c8997aef1a692f28d0641fea4f76233e&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½Ãµø¹q¼v
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",è¡›è¦–é›»å½±
 http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤Ñ¬MÀW¹D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å¤©æ˜ é »é“
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§ç¶œåˆ
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¥®¥®
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®å¹¼å¹¼
 http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨Óºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç·¯ä¾†ç¶œåˆ
 http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤j²Ä¤@
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§ç¬¬ä¸€
 http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§ç¶œåˆ
 http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ß¥xÆW
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸‰ç«‹å°ç£
 http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥xµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å°è¦–
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­è¦–
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",µØµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",è¯è¦–
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦–
 http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤½µø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…¬è¦–
 http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤H¶¡½Ãµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",äººé–“è¡›è¦–
 http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ëºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®ç¶œåˆ
 http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¶Wµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®è¶…è¦–
 http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­å¤©ç¶œåˆ
 http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ®T¼Ö
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­å¤©å¨›æ¨‚
 http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦~¥NMUCH
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å¹´ä»£MUCH
 http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´ËÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®æˆ²åŠ‡
 http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§æˆ²åŠ‡
 http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨ÓÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç·¯ä¾†æˆ²åŠ‡
 http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",WAKUWAKU JAPAN
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",WAKUWAKU JAPAN
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBO
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",HBO
 http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦~¥N·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å¹´ä»£æ–°è
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®æ–°è
 http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥xµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å°è¦–
 rtmp://9sv2.mine.nu/sat/tv071
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­è¦–
 rtmp://9sv2.mine.nu/sat/tv091
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",µØµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",è¯è¦–
 rtmp://9sv2.mine.nu/sat/tv111
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦–
 rtmp://9sv2.mine.nu/sat/tv051
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBS·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",TVBSæ–°è
 rtmp://9sv2.mine.nu:1935/sat/tv551
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBSÅw¼Ö
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",TVBSæ­¡æ¨‚
 rtmp://9sv2.mine.nu:1935/sat/tv421
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë°]¸g·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®è²¡ç¶“æ–°è
 rtmp://9sv2.mine.nu:1935/sat/tv571
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¶Wµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®è¶…è¦–
 rtmp://9sv2.mine.nu:1935/sat/tv331
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨Ó¨|¼Ö
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç·¯ä¾†è‚²æ¨‚
 rtmp://9sv2.mine.nu/sat/tv701
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨ÓÅé¨|
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç·¯ä¾†é«”è‚²
 rtmp://9sv2.mine.nu/sat/tv721
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",MOMOºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",MOMOç¶œåˆ
 rtmp://9sv2.mine.nu/sat/tv761
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨Ó¤é¥»
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç·¯ä¾†æ—¥æœ¬
 rtmp://9sv2.mine.nu:1935/sat/tv771
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELEVEN2
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ELEVEN2
 rtmp://9sv2.mine.nu:1935/sat/md011
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELEVEN1
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ELEVEN1
 rtmp://9sv2.mine.nu/sat/tv731
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELEVEN2
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ELEVEN2
 rtmp://9sv2.mine.nu/sat/tv741
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELTAÅé¨|1
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ELTAé«”è‚²1
 rtmp://9sv2.mine.nu:1935/sat/md031
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELTAÅé¨|4
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ELTAé«”è‚²4
 rtmp://9sv2.mine.nu:1935/sat/md041
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELTAÅé¨|3
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ELTAé«”è‚²3
 rtmp://9sv2.mine.nu:1935/sat/md051
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HKC18
-rtmp://9sv2.mine.nu/sat/hk021
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|1
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ„›çˆ¾é”é«”è‚²1
 http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|2
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ„›çˆ¾é”é«”è‚²2
 http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|3
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ„›çˆ¾é”é«”è‚²3
 http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½Ãµø¹q¼v
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",è¡›è¦–é›»å½±
 http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBO HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",HBO HD
 http://125.227.210.55:35210/VideoInput/play.ts
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¹q¼v
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®é›»å½±
 http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¬v¤ù
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®æ´‹ç‰‡
 http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤Ñ¬MÀW¹D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å¤©æ˜ é »é“
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü¨È¹q¼v
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç¾äºé›»å½±
 http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬P½Ã¹q¼v
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ˜Ÿè¡›é›»å½±
 http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½Ãµø¤¤¤å¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",è¡›è¦–ä¸­æ–‡å°
 http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Às²»®É¥N
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾ç¥¥æ™‚ä»£
 http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾è¯æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØ°¸¹³
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾è¯å¶åƒ
 http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØ¥d³q
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾è¯å¡é€š
 http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",«D¤Z·s»D¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",éå‡¡æ–°èå°
 http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü¨È¹q¼v¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç¾äºé›»å½±å°
 http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦nµÜ¶õ¹q¼v
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å¥½èŠå¡¢é›»å½±
 http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|2¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ„›çˆ¾é”é«”è‚²2å°
 http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|1¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ„›çˆ¾é”é«”è‚²1å°
 http://gwtv.cnv8.tv:8097/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø·s»D¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦–æ–°èå°
 http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø¥xÆW¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦–å°ç£å°
 http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦– HD
 http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦~¥N·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å¹´ä»£æ–°è
 http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBO
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",HBO
 http://gwtv.cnv8.tv:8097/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBO­ì³Ğ
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",HBOåŸå‰µ
 http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥xµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å°è¦–
 http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",µØµø CTS HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",è¯è¦– CTS HD
 http://gwtv.cnv8.tv:8097/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤½µø CTV
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…¬è¦– CTV
 http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§ç¶œåˆ
 http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø·s»D¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­è¦–æ–°èå°
 http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­è¦– HD
 http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ·s»D HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­å¤©æ–°è HD
 http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ®T¼Ö
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­å¤©å¨›æ¨‚
 http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ¨È¬w¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­å¤©äºæ´²å°
 http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¶Wµø
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®è¶…è¦–
 http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë°]¸g·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®è²¡ç¶“æ–°è
 http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¬v¤ù
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®æ´‹ç‰‡
 http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë·s»D
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®æ–°è
 http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´ËÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßºî¦X
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸‰ç«‹ç¶œåˆ
 http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßÀ¸¼@¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸‰ç«‹æˆ²åŠ‡å°
 http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¹q¼vETTVMovie
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®é›»å½±ETTVMovie
 http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ëºî¦XETTVMetro
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ±æ£®ç¶œåˆETTVMetro
 http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñºî¦XCTIMetro
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ä¸­å¤©ç¶œåˆCTIMetro
 http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§ç¶œåˆå°
 http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jÀ¸¼@GTVDrama
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§æˆ²åŠ‡GTVDrama
 http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤j²Ä¤@GTVFirst
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å…«å¤§ç¬¬ä¸€GTVFirst
 http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤p¤Ó¶§
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å°å¤ªé™½
 http://gwtv.cnv8.tv:8097/Xiaotaiyang/playlist.m3u8?tid=MD0D9499792694997926&ct=19254&tsum=900f8779aea05605b068dd6741e0feae
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨ÓÅé¨|¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç·¯ä¾†é«”è‚²å°
 http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¹t¤Ñ¥d³q¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é–å¤©å¡é€šå°
 http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¹t¤Ñ°ê»Ú¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é–å¤©åœ‹éš›å°
 http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBS News
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",TVBS News
 http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBS HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",TVBS HD
 http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",EYETVÀ¸¼@
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",EYETVæˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",EYETV®È¹C
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",EYETVæ—…éŠ
 http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBSÅw¼Ö¥x(³Æ¥÷)
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",TVBSæ­¡æ¨‚å°(å‚™ä»½)
 http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Nickelodeon
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",Nickelodeon
 http://gwtv.cnv8.tv:8097/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Nick Jr
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",Nick Jr
 http://gwtv.cnv8.tv:8097/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&tsum=547e162f9338962a46e76507dbf7d1e4
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",News 18 Tamil
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",News 18 Tamil
 http://gwtv.cnv8.tv:8097/news18tamil_raj/playlist.m3u8?tid=MFEF4476053744760537&ct=19249&tsum=730185304475c7836b81f97985cea296
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",New
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",New
 http://gwtv.cnv8.tv:8097/new_pat/playlist.m3u8?tid=MA8A7659271276592712&ct=19249&tsum=116a75787eb362c83802c370eee554d5
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Net TV
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",Net TV
 http://gwtv.cnv8.tv:8097/NetTV/playlist.m3u8?tid=MB0B1364823413648234&ct=19249&tsum=4109bb7ef2f8a60d80af6c88a23ce242
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Nation
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",Nation
 http://gwtv.cnv8.tv:8097/nation_pat/playlist.m3u8?tid=MB1B9139560291395602&ct=19249&tsum=ce6f7c87a3c920df0d5212ee4b98ba18
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°ê®a¦a²zHD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",åœ‹å®¶åœ°ç†HD
 http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦a²z³¥¥Í°Êª«
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",åœ°ç†é‡ç”Ÿå‹•ç‰©
 http://gwtv.cnv8.tv:8097/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³¥¥Í°Êª«HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é‡ç”Ÿå‹•ç‰©HD
 http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦a²z³¥¥Í°Êª«HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",åœ°ç†é‡ç”Ÿå‹•ç‰©HD
 http://gwtv.cnv8.tv:8097/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",NatGeo Tamil
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",NatGeo Tamil
 http://gwtv.cnv8.tv:8097/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°ê®a¦a²z
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",åœ‹å®¶åœ°ç†
 http://gwtv.cnv8.tv:8097/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",AXNTaiwan
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",AXNTaiwan
 http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°Êª«¬P²y
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å‹•ç‰©æ˜Ÿçƒ
 http://gwtv.cnv8.tv:8097/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°Êª«¬P²y1
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",å‹•ç‰©æ˜Ÿçƒ1
 http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Às²»®É¥N
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾ç¥¥æ™‚ä»£
 http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØ¸g¨å¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾è¯ç¶“å…¸å°
 http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØ°¸¹³
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾è¯å¶åƒ
 http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØ¥d³q
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",é¾è¯å¡é€š
 http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",«D¤Z·s»D¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",éå‡¡æ–°èå°
 http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü­¹¬P²y
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",ç¾é£Ÿæ˜Ÿçƒ
 http://gwtv.cnv8.tv:8097/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|2¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ„›çˆ¾é”é«”è‚²2å°
 http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|1¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ„›çˆ¾é”é«”è‚²1å°
 http://gwtv.cnv8.tv:8097/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø·s»D¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦–æ–°èå°
 http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø¥xÆW¥x
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦–å°ç£å°
 http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø HD
+#EXTINF:-1 group-title="å°ç£é›»è¦–#genre#",æ°‘è¦– HD
 http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¦~¥N·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å¹´ä»£æ–°è
 http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",HBO­ì³Ğ
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",HBOåŸå‰µ
 http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¥xµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å°è¦–
 http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",µØµø CTS HD
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",è¯è¦– CTS HD
 http://gwtv.cnv8.tv:8097/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤½µø CTV
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…¬è¦– CTV
 http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤jºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¶œåˆ
 http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø·s»D¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦–æ–°èå°
 http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø HD
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦– HD
 http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñ·s»D HD
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©æ–°è HD
 http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñ®T¼Ö
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©å¨›æ¨‚
 http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñ¨È¬w¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©äºæ´²å°
 http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë¶Wµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®è¶…è¦–
 http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë°]¸g·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®è²¡ç¶“æ–°è
 http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë¬v¤ù
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®æ´‹ç‰‡
 http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®æ–°è
 http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´ËÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ßºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹ç¶œåˆ
 http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ßÀ¸¼@¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹æˆ²åŠ‡å°
 http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ëºî¦XETTVMetro
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®ç¶œåˆETTVMetro
 http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñºî¦XCTIMetro
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©ç¶œåˆCTIMetro
 http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤jºî¦X¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¶œåˆå°
 http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤jÀ¸¼@GTVDrama
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§æˆ²åŠ‡GTVDrama
 http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤j²Ä¤@GTVFirst
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¬¬ä¸€GTVFirst
 http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",½n¨ÓÅé¨|¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç·¯ä¾†é«”è‚²å°
 http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¹t¤Ñ°ê»Ú¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é–å¤©åœ‹éš›å°
 http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBS News
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBS News
 http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBS HD
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBS HD
 http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",EYETVÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",EYETVæˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",EYETV®È¹C
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",EYETVæ—…éŠ
 http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBSÅw¼Ö¥x(³Æ¥÷)
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSæ­¡æ¨‚å°(å‚™ä»½)
 http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",Viu6
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",Viu6
 http://gwtv.cnv8.tv:8097/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",°ê®a¦a²zHD
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",åœ‹å®¶åœ°ç†HD
 http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",³¥¥Í°Êª«HD
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é‡ç”Ÿå‹•ç‰©HD
 http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",Momo TV
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",Momo TV
 http://gwtv.cnv8.tv:8097/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",AFC¨È¬w®È¹C¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",AFCäºæ´²æ—…éŠå°
 http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",AXNTaiwan
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",AXNTaiwan
 http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",°Êª«¬P²y1
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å‹•ç‰©æ˜Ÿçƒ1
 http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CINEMAX
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",CINEMAX
 http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CNBC
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",CNBC
 http://gwtv.cnv8.tv:8097/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",DiscoveryAsia
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",DiscoveryAsia
 http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",DiscoveryHD
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",DiscoveryHD
 http://gwtv.cnv8.tv:8097/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",DiscoveryTurbo
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",DiscoveryTurbo
 http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=MA4A9062409890624098&ct=19254&tsum=a08aaae68298f6df5540cb41f9d7fdd5
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",Discovery_Science
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",Discovery_Science
 http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=MEDE7333306673333066&ct=19254&tsum=c17c57e395a30ccf636418530f7811a9
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",BBCEarthHD
-http://gwtv.cnv8.tv:8097/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",BBCWorldNews
-http://gwtv.cnv8.tv:8097/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",BloombergNews
-http://gwtv.cnv8.tv:8097/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CBSHD
-http://gwtv.cnv8.tv:8097/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CBSNHD
-http://gwtv.cnv8.tv:8097/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ABCNews
-http://gwtv.cnv8.tv:8097/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ABCNews
-http://gwtv.cnv8.tv:8097/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",BabyTV
-http://gwtv.cnv8.tv:8097/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",BabyTV
-http://gwtv.cnv8.tv:8097/babytv_twn/playlist.m3u8?tid=MB3B7827650178276501&ct=18393&tsum=27fb0219125df6a523b97248cdf16d1b
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CBSNews
-http://gwtv.cnv8.tv:8097/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CBSNews
-http://gwtv.cnv8.tv:8097/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CNN
-http://gwtv.cnv8.tv:8097/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",CNN
-http://gwtv.cnv8.tv:8097/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",DiscoveryAsia
-http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",DiscoveryÀW¹D
-http://gwtv.cnv8.tv:8097/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ELEVENÅé¨|1¥x
-http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ELEVENÅé¨|1¥x
-http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",EYETVÀ¸¼@
-http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",FoxNews
-http://gwtv.cnv8.tv:8097/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",FoxNews
-http://gwtv.cnv8.tv:8097/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",GOODTVCH02¯u²z¥x
-http://gwtv.cnv8.tv:8097/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",HBO­ì³Ğ
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",HBOåŸå‰µ
 http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",HBO­ì³Ğ
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",HBOåŸå‰µ
 http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",HBO®a®x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",HBOå®¶åº­
 http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",HBO®a®x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",HBOå®¶åº­
 http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",RTHK32
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",RTHK32
 http://gwtv.cnv8.tv:8097/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBS·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSæ–°è
 http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBSÅw¼Ö¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSæ­¡æ¨‚å°
 http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBSÅw¼Ö¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSæ­¡æ¨‚å°
 http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBSÅw¼Ö¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSæ­¡æ¨‚å°
 http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",WWE
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",WWE
 http://gwtv.cnv8.tv:8097/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",WWE
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",WWE
 http://gwtv.cnv8.tv:8097/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ß¥xÆW
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹å°ç£
 http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ß¥xÆW
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹å°ç£
 http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ßÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ßÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ßÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ßºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹ç¶œåˆ
 http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤T¥ßºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸‰ç«‹ç¶œåˆ
 http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñ¨È¬w¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©äºæ´²å°
 http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñ®T¼Ö
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©å¨›æ¨‚
 http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñ®T¼Ö
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©å¨›æ¨‚
 http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñ®T¼Ö
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©å¨›æ¨‚
 http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©ç¶œåˆ
 http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©ç¶œåˆ
 http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤¤Ñºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­å¤©ç¶œåˆ
 http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦–æ–°è
 http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦–æ–°è
 http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦–æ–°è
 http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦–æ–°è
 http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø¸g¨å
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦–ç¶“å…¸
 http://gwtv.cnv8.tv:8097/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¨È¬w®È¹C¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",äºæ´²æ—…éŠå°
 http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¨È¬w®È¹C¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",äºæ´²æ—…éŠå°
 http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¨È¬w®È¹C¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",äºæ´²æ—…éŠå°
 http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤jÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤jÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤j²Ä¤@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¬¬ä¸€
 http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤j²Ä¤@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¬¬ä¸€
 http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤j²Ä¤@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¬¬ä¸€
 http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤j²Ä¤@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¬¬ä¸€
 http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤jºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¶œåˆ
 http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤K¤jºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…«å¤§ç¶œåˆ
 http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤½µø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…¬è¦–
 http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤½µø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å…¬è¦–
 http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",°Êª«¬P²y
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å‹•ç‰©æ˜Ÿçƒ
 http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",°Êª«¬P²y
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å‹•ç‰©æ˜Ÿçƒ
 http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",°Êª«¬P²y
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å‹•ç‰©æ˜Ÿçƒ
 http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¦nµÜ¶õ¹q¼v
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å¥½èŠå¡¢é›»å½±
 http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¦nµÜ¶õ¹q¼v
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å¥½èŠå¡¢é›»å½±
 http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",·Rº¸¹FÅé¨|1¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ„›çˆ¾é”é«”è‚²1å°
 http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",·Rº¸¹FÅé¨|1¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ„›çˆ¾é”é«”è‚²1å°
 http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",·Rº¸¹FÅé¨|2¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ„›çˆ¾é”é«”è‚²2å°
 http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á¨È¬w
-http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¬P½Ã¹q¼v
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ˜Ÿè¡›é›»å½±
 http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¬P½Ã¹q¼v
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ˜Ÿè¡›é›»å½±
 http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",®É©|¥xFTV
-http://gwtv.cnv8.tv:8097/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",®É©|¥xFTV
-http://gwtv.cnv8.tv:8097/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´ËLIVE
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®LIVE
 http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´ËLIVE
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®LIVE
 http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë°]¸g
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®è²¡ç¶“
 http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë°]¸g
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®è²¡ç¶“
 http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë¶Wµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®è¶…è¦–
 http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë¹q¼v
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®é›»å½±
 http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¥Áµø·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ°‘è¦–æ–°è
 http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¹t¤Ñ¥d³q
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é–å¤©å¡é€š
 http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¹t¤Ñ°ê»Ú¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é–å¤©åœ‹éš›å°
 http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",«D¤Z·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",éå‡¡æ–°è
 http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",«D¤Z·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",éå‡¡æ–°è
 http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",«D¤Z·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",éå‡¡æ–°è
 http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",Às²»®É¥N
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é¾ç¥¥æ™‚ä»£
 http://gwtv.cnv8.tv:8097/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",Às²»®É¥N
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é¾ç¥¥æ™‚ä»£
 http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",Às²»®É¥N
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é¾ç¥¥æ™‚ä»£
 http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ÀsµØÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é¾è¯æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ÀsµØÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é¾è¯æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ÀsµØÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é¾è¯æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ÀsµØÀ¸¼@
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",é¾è¯æˆ²åŠ‡
 http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",AnimalPlanet
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",AnimalPlanet
 http://gwtv.cnv8.tv:8097/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",astro¤p¤Ó¶§
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",astroå°å¤ªé™½
 http://gwtv.cnv8.tv:8097/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBJ2
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBJ2
 http://gwtv.cnv8.tv:8097/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",½n¨ÓÅé¨|
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç·¯ä¾†é«”è‚²
 http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¤¤µø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ä¸­è¦–
 rtmp://twcdn.top/sat/tv091
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",µØµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",è¯è¦–
 rtmp://twcdn.top/sat/tv112
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¥xµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",å°è¦–
 rtmp://twcdn.top/sat/tv071
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¥Áµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ°‘è¦–
 rtmp://twcdn.top/sat/tv052
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBS¡PÅw¼Ö¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSÂ·æ­¡æ¨‚å°
 rtmp://twcdn.top/sat/tv422
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBS¡P·s»D¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSÂ·æ–°èå°
 rtmp://twcdn.top/sat/tv552
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",½n¨ÓÅé¨|
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç·¯ä¾†é«”è‚²
 rtmp://twcdn.top/sat/tv721
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",½n¨Ó¨|¼Ö
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç·¯ä¾†è‚²æ¨‚
 rtmp://twcdn.top/sat/tv701
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ªF´Ë°]¸g·s»D
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ±æ£®è²¡ç¶“æ–°è
 rtmp://twcdn.top/sat/tv571
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",MoMoºî¦X
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",MoMoç¶œåˆ
 rtmp://twcdn.top/sat/tv761
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",FOXÅé¨|
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",FOXé«”è‚²
 rtmp://twcdn.top/sat/tv731
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",³Õ´µ¹B°Ê II
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",åšæ–¯é‹å‹• II
 rtmp://twcdn.top/sat/md051
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¦³½u18¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æœ‰ç·š18å°
 rtmp://twcdn.top/sat/hk021
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¦³½u SPORTS 1
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æœ‰ç·š SPORTS 1
 rtmp://twcdn.top/sat/hk011
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",µL½u°]¸g
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç„¡ç·šè²¡ç¶“
 rtmp://twcdn.top/sat/hk031
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",¥Áµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ°‘è¦–
 rtmp://twcdn.top/sat/tv051
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",µØµø
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",è¯è¦–
 rtmp://twcdn.top/sat/tv111
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBS¡PÅw¼Ö¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSÂ·æ­¡æ¨‚å°
 rtmp://twcdn.top/sat/tv421
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",TVBS¡P·s»D¥x
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",TVBSÂ·æ–°èå°
 rtmp://twcdn.top/sat/tv551
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",ELEVEN2Åé¨|
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ELEVEN2é«”è‚²
 rtmp://twcdn.top/sat/tv741
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",½n¨Ó¤é¥»
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç·¯ä¾†æ—¥æœ¬
 rtmp://twcdn.top/sat/tv771
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",·Rº¸¹FÅé¨|¢¹
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",æ„›çˆ¾é”é«”è‚²â… 
 rtmp://twcdn.top/sat/md011
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",½n¨Ó¤é¥»
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç·¯ä¾†æ—¥æœ¬
 rtmp://twcdn.top/sat/tv522
-#EXTINF:-1 group-title="TG¸s: https://t.me/lfy6666",½n¨Ó¨|¼Ö
+#EXTINF:-1 group-title="TGç¾¤: https://t.me/lfy6666",ç·¯ä¾†è‚²æ¨‚
 rtmp://twcdn.top/sat/tv702
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",EYETVÀ¸¼@HD
-http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¬P½Ã¹q¼vHD
-http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¬P½Ã¹q¼vHD
-http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¦nµÜ¶õ¹q¼vHD
-http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¦nµÜ¶õ¹q¼vHD
-http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¦nµÜ¶õ¹q¼vHD
-http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",Às²»®É¥NHD
-http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ÀsµØÀ¸¼@HD
-http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ÀsµØ°¸¹³HD
-http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ÀsµØ¸g¨å¥xHD
-http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ÀsµØ°¸¹³HD
-http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ÀsµØ¸g¨å¥xHD
-http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ÀsµØ°¸¹³HD
-http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ÀsµØ¥d³qHD
-http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",Às²»®É¥NHD
-http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",Às²»®É¥NHD
-http://gwtv.cnv8.tv:8097/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ªF´Ë¹q¼vHD
-http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ªF´Ë¹q¼vHD
-http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ªF´Ë¹q¼vHD
-https://zb.ran-ran.net:443/198proxy.php?id=dsdy
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",ªF´Ëºî¦XHD
-http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¥ÁµøHD
-http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¥ÁµøHD
-http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¥xµøHD
-http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤¤µøHD
-http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤½µøHD
-http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤½µøHD
-http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¥xµøHD
-http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",µØµøHD
-http://gwtv.cnv8.tv:8097/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤½µøHD
-http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤¤µø·s»DHD
-http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤¤µø·s»DHD
-http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤¤µø·s»DHD
-http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¥Áµø¥xÆW¥xHD
-http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¥Áµø·s»D¥xHD
-http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¥Áµø²Ä¤@¥xHD
-http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBS·s»D¥xHD
-http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBS HD
-http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBSÅw¼Ö¥xHD
-http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBS·s»D¥xHD
-http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBSÅw¼Ö¥xHD
-http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBSÅw¼Ö¥xHD
-http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBSÅw¼Ö¥xHD
-http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBJ2HD
-http://gwtv.cnv8.tv:8097/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TVBJ2HD
-http://gwtv.cnv8.tv:8097/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jºî¦XHD
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jÀ¸¼@HD
-http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jºî¦XHD
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jºî¦XHD
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jÀ¸¼@HD
-http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jÀ¸¼@HD
-http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jÀ¸¼@HD
-http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jºî¦XHD
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤K¤jºî¦XHD
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¹t¤Ñ¥d³qHD
-http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¹t¤Ñ¥d³qHD
-http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¹t¤Ñ¥d³q¥xHD
-http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286/
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",TV8
-http://gwtv.cnv8.tv:8097/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ßºî¦X
-http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ßÀ¸¼@¥x
-http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ß¥xÆW
-http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ß¥xÆW
-http://wspull.qiandaoapp.com/live/j3V7itFgaRsqjCJDUkaWxA4L0zzojI3Q.flv
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ß¥xÆW
-http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ßÀ¸¼@
-http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ßÀ¸¼@
-http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ßÀ¸¼@
-http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ßºî¦X
-http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-#EXTINF:-1 group-title="¦w¦w´ä¥x,#genre#",¤T¥ßºî¦X
-http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
-#EXTM3U
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤½µø
-http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤½µø
-http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc187e0081b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤½µø
-http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657abb
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø
-http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=fbc96d2cd48b11d40c919743
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø¥xÆW¥x
-http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8603b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø·s»D
-http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b6
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø·s»D
-http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738989
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥Áµø²Ä¤@¥x
-http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0174154154150981567d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¥xµø
-http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø
-http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3bb53c39b3b9706262626262602
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø·s»D
-http://gwtv.cnv8.tv:8097/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e205824583855f8bd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø·s»D
-http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13476
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø·s»D¥x
-http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3dec7fd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤µø¸g¨å
-http://gwtv.cnv8.tv:8097/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",µØµø
-http://gwtv.cnv8.tv:8097/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206962b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",AXN
-http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",CINEMAX
-http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Discovery Asia
-http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Discovery Asia
-http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Discovery HD
-http://gwtv.cnv8.tv:8097/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Discovery
-http://gwtv.cnv8.tv:8097/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f629546229462294f
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELEVENÅé¨|1¥x
-http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512fc
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ELEVENÅé¨|1¥x
-http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bbe
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",EYEÀ¸¼@
-http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffbff
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",EYE TVÀ¸¼@
-http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797564fcc
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",EYE TV®È¹C
-http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3fa
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦n®ø®§2
-http://gwtv.cnv8.tv:8097/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a808382d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBOHD
-http://gwtv.cnv8.tv:8097/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670bect=19225&tsum=a904cd480db106670bect=1925&tsum=a904cd480db106670bect=11d1414fbfce
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBOSIGNATURE
-http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534bbbcae648
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBOSIGNATURE
-http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160b4fbee
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBOSIGNATURE
-http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b411840f
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBOFAMILY
-http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1b3bb
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",HBOFAMILY
-http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec853
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TLC
-http://gwtv.cnv8.tv:8097/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TLC®È¹C¥Í¬¡
-http://gwtv.cnv8.tv:8097/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBS News
-http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBS
-http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBS·s»D
-http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37413348db
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBSÅw¼Ö¥x
-http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2460196
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBSÅw¼Ö¥x
-http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba64131315556d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",TVBSÅw¼Ö¥x
-http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a0
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ß¥xÆW
-http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßÀ¸¼@
-http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46ff
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßÀ¸¼@
-http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925589656
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßÀ¸¼@
-http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38bbbfd7b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßºî¦X
-http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b531678
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßºî¦X
-http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e510c
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤T¥ßºî¦X
-http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b6868&ct=17874&tsum=4472a7c943b67bf5256b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ¨È¬w¥x
-http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ceded
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ¨È¬w¥x
-http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ®T¼Ö
-http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f033bf
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ®T¼Ö
-http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30ect=19249&tsum=8b08b54208f3ee30e12f419d587f46acd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ®T¼Ö
-http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ®T¼Ö
-http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b068547b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñ·s»D
-http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ffff
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñºî¦X
-http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b74b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñºî¦X
-http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=MB6B38889547388889547&ct=19254&tsum=d0cb922e44e8a169596
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñºî¦X
-http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b74b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤¤¤Ñºî¦X
-http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683bca
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¨È¬w®È¹C¥x
-http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cffca6846134535
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¨È¬w®È¹C¥x
-http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c796ac
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¨È¬w®È¹C¥x
-http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf384644337d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jÀ¸¼@
-http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e434320e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jÀ¸¼@
-http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad996752137d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jÀ¸¼@
-http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤j²Ä¤@
-http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤j²Ä¤@
-http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤j²Ä¤@
-http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbea
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0dfbb
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤K¤jºî¦X
-http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce167d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°Êª«¬P²y
-http://gwtv.cnv8.tv:8097/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c399553680601a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°Êª«¬P²y
-http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°Êª«¬P²y
-http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°Êª«¬P²y
-http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c679640feecc
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°Êª«¬P²y1
-http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17bed
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µºô²y
-http://gwtv.cnv8.tv:8097/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf7
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µºô²y
-http://gwtv.cnv8.tv:8097/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a640065
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µºô²y
-http://gwtv.cnv8.tv:8097/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µ¹B°Ê
-http://gwtv.cnv8.tv:8097/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273215274b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µ¹B°Ê¤G¥x
-http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f146464646
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µ¹B°Ê¤G¥x
-http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d57429380099
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µ°ª²y
-http://gwtv.cnv8.tv:8097/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4885abb
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µ°ª²y
-http://gwtv.cnv8.tv:8097/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³Õ´µ°ª²y¤G¥x
-http://gwtv.cnv8.tv:8097/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=0ea99cd84e728423423fdc
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°ê®a¦a²z
-http://gwtv.cnv8.tv:8097/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12493d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",°ê®a¦a²zHD
-http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a282470d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦a²z³¥¥Í°Êª«
-http://gwtv.cnv8.tv:8097/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944b451293c
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦a²z³¥¥Í°Êª«HD
-http://gwtv.cnv8.tv:8097/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4bd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¤j·R¤@»O
-http://gwtv.cnv8.tv:8097/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae3bde
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦n®ø®§2
-http://gwtv.cnv8.tv:8097/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15656528
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦nµÜ¶õ¹q¼v
-http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd0126799
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦nµÜ¶õ¹q¼v
-http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bab
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦nµÜ¶õ¹q¼v
-http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03ebbef05a031916747
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¦~¥N·s»D
-http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b1953fe6
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|1¥x
-http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a62889
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|1¥x
-http://gwtv.cnv8.tv:8097/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285966b8ef285966b8
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|2¥x
-http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e889
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",·Rº¸¹FÅé¨|2¥x
-http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009bb281ea2abc3b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",±´¯Á¨È¬w
-http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e0735
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c5260146d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563020db
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",±´¯Á°Ê¤O
-http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a3b3
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a7300380fd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c40275057fde
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",±´¯Á¬ì¾Ç
-http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c4048888445ec571121212121b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬P½Ã¹q¼v
-http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4bbb71066
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬P½Ã¹q¼v
-http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d246088b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬P½Ã¹q¼v
-http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a529607cc
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",®É©|¥xFTV
-http://gwtv.cnv8.tv:8097/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26deeca
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",®É©|¥xFTV
-http://gwtv.cnv8.tv:8097/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad88812deda83d1
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´ËLIVE
-http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4b4
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´ËÀ¸¼@
-http://gwtv.cnv8.tv:8097/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196204b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë·s»D
-http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d9516299
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¬v¤ù
-http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be249&tsum=14f89967cdf6c504230be29
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ëºî¦X
-http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë°]¸g
-http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë°]¸g
-http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401f3db
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë°]¸g
-http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b27457d31
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¶Wµø
-http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f4825d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¶Wµø
-http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cfcf27fd21b88
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¹q¼v
-http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e40296d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªF´Ë¹q¼v
-http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19981
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",µL½u°]¸g¸ê°T¥x
-http://gwtv.cnv8.tv:8097/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d746d
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨ÓÅé¨|
-http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½n¨ÓÅé¨|¥x
-http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b48924687c
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü¨È¹q¼v
-http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d332993&ct=18392&tsum=3f73f541d3332993&ct=18392&tsum=3f73f541d333371140028
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü¨È¹q¼v
-http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e5437
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü¨È¹q¼v
-http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2751128
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü¨È¹q¼v
-http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f376415310b
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¬ü­¹¬P²y
-http://gwtv.cnv8.tv:8097/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",½Ãµø¤¤¤å¥x
-http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbecc
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",³¥¥Í°Êª«HD
-http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec16a0f098
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ªü¨½­¦ Arirang
-http://gwtv.cnv8.tv:8097/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¹t¤Ñ¥d³q¥x
-http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac60c
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¹t¤Ñ¥d³q¥x
-http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¹t¤Ñ°ê»Ú¥x
-http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc2369339da
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",¹t¤Ñ°ê»Ú¥x
-http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392bba21e1710ccd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",«D¤Z·s»D
-http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12332&ct=19225&tsum=eea4d84db71e12
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",«D¤Z·s»D
-http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c3ca57
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",«D¤Z·s»D¥x
-http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae8984685a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Às²»®É¥N
-http://gwtv.cnv8.tv:8097/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e67cc000a
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Às²»®É¥N
-http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a36524024365
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",Às²»®É¥N
-http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e29cb16c
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØ°¸¹³
-http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793357196
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØ¥d³q
-http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØÀ¸¼@
-http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f856558e10bdab
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØÀ¸¼@
-http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a36497920f95fd
-#EXTINF:-1 group-title="¥xÆW¹qµø#genre#",ÀsµØÀ¸¼@
-http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b
